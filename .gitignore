@@ -1,0 +1,5 @@
+# compiled binary
+minieditor
+
+# object files
+*.o
